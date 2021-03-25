@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Hello World!  My First Jenfins file"
+                echo "Hi, This is Urvashi Trivedi, My First Jenfins file"
             }
         }
     }
